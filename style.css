@@ -1,0 +1,8 @@
+header {
+    display: flex;
+    margin:0;
+    justify-content: center;
+    background-color: #677066;
+    height: 250px;
+    margin-bottom: 40px;
+   }
